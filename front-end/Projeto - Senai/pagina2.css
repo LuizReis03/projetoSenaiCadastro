@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+body {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+header {
+    background-color: rgb(0, 101, 179);
+}
+
+#header{
+    background-color: rgb(0, 101, 179);
+}
+
+#letraheader{
+    color: white;
+}
+
+#letramain{
+    color: white;
+}
+
+.logo {
+    margin-left: 5%;
+    font-size: 30px;
+}
+.nome1{
+    margin-left: 50%;
+    font-size: 20px;
+}
+.nome2{
+    margin-left: 1%;
+    font-size: 20px;
+}
+footer{
+    align-items: center;
+    max-width: 100%;
+    width: 100%;
+    padding-top: 0.7%;
+    padding-left: 0.7%;
+    box-sizing: border-box;
+    bottom: 0;
+    position: fixed;
+    height: 10%;
+    background-color: #A6A6A6;
+    display: flex;
+}
+.logo1{
+    margin-left: 1%;
+}
+.logo2{
+    margin-left: 1%;
+}
+.end{
+    margin-left: 4%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.czinho{
+    margin-left: 22%;
+    margin-bottom: 1%;
+}
+.senai{
+    margin-left: 1%;
+    font-size: 20px;
+}
+.formulario{
+    font-family: 'Raleway', sans-serif;
+    color: black;
+}
+#nome{
+    margin-top: 4%;
+    width: 50%;
+    margin-left: 10%;
+}
+#data{
+    margin-top: 3%;
+    width: 50%;
+    margin-left: 10%;
+
+}
+#cpf{
+    margin-top: 3%;
+    width: 50%;
+    margin-left: 10%;
+
+}
+#telefone{
+    margin-top: 3%;
+    width: 50%;
+    margin-left: 10%;
+
+}
+.botao{
+    margin-top: 5%;
+    margin-left: 10%;
+    height: 10%;
+    width: 20%;
+}
+
+.salas{
+    margin-left: 10% !important;
+    width: 20% !important;
+    margin-top: 5% !important;
+}
